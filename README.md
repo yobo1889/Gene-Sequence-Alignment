@@ -103,4 +103,4 @@ Both algorithms generate heatmaps of the scoring matrices, making it easier to a
 This project is open-source and available under the MIT License.
 
 ## Author
-**[Your Name]**
+Yeabsira Gebreegziabher
